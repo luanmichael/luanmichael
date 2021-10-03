@@ -1,3 +1,6 @@
+"In real open source, you have the right to control your own destiny." - Linus Torvalds
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49A8F7&center=true&vCenter=true&lines=Welcome+to+my+Github!+%3A-%5D)](https://git.io/typing-svg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
