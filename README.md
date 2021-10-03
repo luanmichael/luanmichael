@@ -1,26 +1,34 @@
 
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49A8F7&center=true&vCenter=true&lines=Welcome+to+my+Github!+%3A-%5D)](https://git.io/typing-svg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE COMMUNITY!. I'm from Brazil, living in João Pessoa and cI'm currently working on Volkswagen but i'm not IT employer (not yet) . You can find me on [![Twitter][1.2]][1].
 
 
-## &#x270d; Blog & Writing
+## &#x270d; Os & Writing
+Actually i'm using Pop! Os By System76 (Ubuntu Based)
 
-[Under Construction]
+**[Bio Under Construction]**
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ## &#x1f4c8; GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmichael)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmichael)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmichael&layout=layout)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+## 
+<img width="300" alt="portfolio_view" src="https://i.imgur.com/z8myyBQ.gif" >
+</br>
 
 <!-- links to social media icons -->
 
@@ -39,8 +47,8 @@ My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE C
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/luanxxxbr1
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
+[2]: -
+[3]: -
 
 
 <!-- Resources -->
