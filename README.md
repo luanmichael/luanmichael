@@ -1,11 +1,11 @@
-<h2 align="center">"In real open source, you have the right to control your own destiny." - Linus Torvalds</h2>
+<h2 align="center"> "In real open source, you have the right to control your own destiny." - Linus Torvalds</h2>
 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=49A8F7&center=true&vCenter=true&lines=Welcome+to+my+Github!+%3A-%5D)](https://git.io/typing-svg)
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE COMMUNITY!. I'm from Brazil, living in João Pessoa and cI'm currently working on Volkswagen but i'm not IT employer (not yet) . You can find me on [![Twitter][1.2]][1].
+My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE COMMUNITY! I'm from Brazil, living in João Pessoa and i'm currently working on Volkswagen but i'm not IT employer (not yet) . You can find me on [![Twitter][1.2]][1].
 
 
 ## &#x270d; Os & Writing
