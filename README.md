@@ -19,6 +19,7 @@ My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE C
 ## &#x1f4c8; GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmichael)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmichael)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- links to social media icons -->
