@@ -25,8 +25,8 @@ Actually i'm using Pop! Os By System76 (Ubuntu Based)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ## &#x1f4c8; GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmichael)](https://github.com/luanmichael/luanmichael)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmichael&layout=layout)](https://github.com/luanmichael/luanmichael)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmichael)](https://github.com/luanmichael/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmichael&layout=layout)](https://github.com/luanmichael/)
 <br>
 ## 
 <img width="300" alt="portfolio_view" src="https://i.imgur.com/z8myyBQ.gif" >
