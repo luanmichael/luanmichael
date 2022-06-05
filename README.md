@@ -11,7 +11,7 @@ My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE C
 ## &#x270d; Os & Writing
 Actually i'm using Ubuntu (Debian Based)
 
-**WebLate**
+## &#x270d;**WebLate**
 Actually i'm translating the Nitrox Project. 
 Nitrox is a Multiplayer Mod for Subnautica
 
