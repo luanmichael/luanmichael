@@ -9,9 +9,15 @@ My name is Luan Michael and I'm just studying at moment and I LOVE OPEN SOURCE C
 
 
 ## &#x270d; Os & Writing
-Actually i'm using Pop! Os By System76 (Ubuntu Based)
+Actually i'm using Ubuntu (Debian Based)
 
-**[Bio Under Construction]**
+**WebLate**
+Actually i'm translating the Nitrox Project. 
+Nitrox is a Multiplayer Mod for Subnautica
+
+check it: 
+
+https://hosted.weblate.org/user/luanmichael/
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -74,3 +80,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
